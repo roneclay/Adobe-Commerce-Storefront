@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://roneclay.github.io/Adobe-Commerce-Storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
